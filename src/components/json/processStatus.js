@@ -1,0 +1,1 @@
+export let processStatus={ "checkEnvironment": true, "main": true, "mainGitAnalysis": true, "prepareConfigurationList": true, "mainCiceroAnalysis": true, "mainSonarAnalysis": true, "sonarAnalysis": true, "productivityjob": true, "sonarETL": true, "analytics": true, "prepareMainStatus": true, "combineCeicroModelsOfall": true };
